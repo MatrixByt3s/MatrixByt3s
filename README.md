@@ -15,9 +15,6 @@ Passionate developer from Germany, Interested in Math, Linux, Back and Frontend 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0x1-omnidev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=0x1-omnidev&icon=6&color=6)](https://visitcount.itsvg.in)
 
