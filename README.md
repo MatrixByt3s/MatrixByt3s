@@ -1,5 +1,4 @@
 ![](standard.gif)
-https://gist.githubusercontent.com/0x1-omnidev/3131d9ca507f67397786ce761c7073f1/raw
 
 # 💫 About Me:
 Passionate developer from Germany, Interested in Math, Linux, Back and Frontend Web development
