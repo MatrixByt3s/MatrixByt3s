@@ -1,6 +1,7 @@
 ![](standard.gif)
 
-ONLINE!
+Status: [ACTIVITY]
+Learn how i implemented this [here](https://link-url-here.org)
 
 # 💫 About Me:
 Passionate developer from Germany, Interested in Math, Linux, Back and Frontend Web development
