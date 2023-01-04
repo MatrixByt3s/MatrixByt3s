@@ -1,6 +1,6 @@
 ![](standard.gif)
 
-Status: [ACTIVITY]
+Status: [ACTIVITY]<br>
 Learn how i implemented this [here](https://link-url-here.org)
 
 # 💫 About Me:
