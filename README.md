@@ -1,24 +1,63 @@
-![](standard.gif)
-
-ONLINE!
-
-# 💫 About Me:
-Passionate developer from Germany, Interested in Math, Linux, Back and Frontend Web development
-
-## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20668417) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0x1-omnidev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0x1-omnidev&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x1-omnidev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0x1-omnidev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=0x1-omnidev&icon=6&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+IVtdKHN0YW5kYXJkLmdpZikKCk9OTElORSEKCiMg8J+SqyBBYm91dCBNZToK
+UGFzc2lvbmF0ZSBkZXZlbG9wZXIgZnJvbSBHZXJtYW55LCBJbnRlcmVzdGVk
+IGluIE1hdGgsIExpbnV4LCBCYWNrIGFuZCBGcm9udGVuZCBXZWIgZGV2ZWxv
+cG1lbnQKCiMjIPCfjJAgU29jaWFsczoKWyFbU3RhY2sgT3ZlcmZsb3ddKGh0
+dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLVN0YWNrb3ZlcmZsb3ctRkU3
+QTE2P2xvZ289c3RhY2stb3ZlcmZsb3cmbG9nb0NvbG9yPXdoaXRlKV0oaHR0
+cHM6Ly9zdGFja292ZXJmbG93LmNvbS91c2Vycy8yMDY2ODQxNykgCgojIPCf
+krsgVGVjaCBTdGFjazoKIVtDU1MzXShodHRwczovL2ltZy5zaGllbGRzLmlv
+L2JhZGdlL2NzczMtJTIzMTU3MkI2LnN2Zz9zdHlsZT1mb3ItdGhlLWJhZGdl
+JmxvZ289Y3NzMyZsb2dvQ29sb3I9d2hpdGUpICFbSFRNTDVdKGh0dHBzOi8v
+aW1nLnNoaWVsZHMuaW8vYmFkZ2UvaHRtbDUtJTIzRTM0RjI2LnN2Zz9zdHls
+ZT1mb3ItdGhlLWJhZGdlJmxvZ289aHRtbDUmbG9nb0NvbG9yPXdoaXRlKSAh
+W01hcmtkb3duXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL21hcmtk
+b3duLSUyMzAwMDAwMC5zdmc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPW1h
+cmtkb3duJmxvZ29Db2xvcj13aGl0ZSkgIVtQeXRob25dKGh0dHBzOi8vaW1n
+LnNoaWVsZHMuaW8vYmFkZ2UvcHl0aG9uLTM2NzBBMD9zdHlsZT1mb3ItdGhl
+LWJhZGdlJmxvZ289cHl0aG9uJmxvZ29Db2xvcj1mZmRkNTQpICFbU2hlbGwg
+U2NyaXB0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3NoZWxsX3Nj
+cmlwdC0lMjMxMjEwMTEuc3ZnP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1n
+bnUtYmFzaCZsb2dvQ29sb3I9d2hpdGUpICFbSmF2YVNjcmlwdF0oaHR0cHM6
+Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9qYXZhc2NyaXB0LSUyMzMyMzMzMC5z
+dmc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWphdmFzY3JpcHQmbG9nb0Nv
+bG9yPSUyM0Y3REYxRSkgIVtDaGFydC5qc10oaHR0cHM6Ly9pbWcuc2hpZWxk
+cy5pby9iYWRnZS9jaGFydC5qcy1GNTc4OEQuc3ZnP3N0eWxlPWZvci10aGUt
+YmFkZ2UmbG9nbz1jaGFydC5qcyZsb2dvQ29sb3I9d2hpdGUpICFbRmFzdEFQ
+SV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9GYXN0QVBJLTAwNTU3
+MT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289ZmFzdGFwaSkgIVtGbGFza10o
+aHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9mbGFzay0lMjMwMDAuc3Zn
+P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1mbGFzayZsb2dvQ29sb3I9d2hp
+dGUpICFbUXRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUXQtJTIz
+MjE3MzQ2LnN2Zz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289UXQmbG9nb0Nv
+bG9yPXdoaXRlKSAhW1NRTGl0ZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9i
+YWRnZS9zcWxpdGUtJTIzMDc0MDVlLnN2Zz9zdHlsZT1mb3ItdGhlLWJhZGdl
+JmxvZ289c3FsaXRlJmxvZ29Db2xvcj13aGl0ZSkgIVtNeVNRTF0oaHR0cHM6
+Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9teXNxbC0lMjMwMGYuc3ZnP3N0eWxl
+PWZvci10aGUtYmFkZ2UmbG9nbz1teXNxbCZsb2dvQ29sb3I9d2hpdGUpICFb
+Q2FudmFdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvQ2FudmEtJTIz
+MDBDNENDLnN2Zz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Q2FudmEmbG9n
+b0NvbG9yPXdoaXRlKSAhW0dpbXAgR251IEltYWdlIE1hbmlwdWxhdGlvbiBQ
+cm9ncmFtXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dpbXAtNjU3
+RDhCP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1naW1wJmxvZ29Db2xvcj1G
+RkZGRkYpICFbQXJkdWlub10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRn
+ZS8tQXJkdWluby0wMDk3OUQ/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPUFy
+ZHVpbm8mbG9nb0NvbG9yPXdoaXRlKSAhW1Jhc3BiZXJyeSBQaV0oaHR0cHM6
+Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS8tUmFzcGJlcnJ5UGktQzUxQTRBP3N0
+eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1SYXNwYmVycnktUGkpCiMg8J+TiiBH
+aXRIdWIgU3RhdHM6CiFbXShodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMu
+dmVyY2VsLmFwcC9hcGk/dXNlcm5hbWU9MHgxLW9tbmlkZXYmdGhlbWU9cmFk
+aWNhbCZoaWRlX2JvcmRlcj1mYWxzZSZpbmNsdWRlX2FsbF9jb21taXRzPXRy
+dWUmY291bnRfcHJpdmF0ZT10cnVlKTxici8+CiFbXShodHRwczovL2dpdGh1
+Yi1yZWFkbWUtc3RyZWFrLXN0YXRzLmhlcm9rdWFwcC5jb20vP3VzZXI9MHgx
+LW9tbmlkZXYmdGhlbWU9cmFkaWNhbCZoaWRlX2JvcmRlcj1mYWxzZSk8YnIv
+PgohW10oaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAv
+YXBpL3RvcC1sYW5ncy8/dXNlcm5hbWU9MHgxLW9tbmlkZXYmdGhlbWU9cmFk
+aWNhbCZoaWRlX2JvcmRlcj1mYWxzZSZpbmNsdWRlX2FsbF9jb21taXRzPXRy
+dWUmY291bnRfcHJpdmF0ZT10cnVlJmxheW91dD1jb21wYWN0KQoKIyMg8J+P
+hiBHaXRIdWIgVHJvcGhpZXMKIVtdKGh0dHBzOi8vZ2l0aHViLXByb2ZpbGUt
+dHJvcGh5LnZlcmNlbC5hcHAvP3VzZXJuYW1lPTB4MS1vbW5pZGV2JnRoZW1l
+PXJhZGljYWwmbm8tZnJhbWU9ZmFsc2Umbm8tYmc9dHJ1ZSZtYXJnaW4tdz00
+KQoKLS0tClshW10oaHR0cHM6Ly92aXNpdGNvdW50Lml0c3ZnLmluL2FwaT9p
+ZD0weDEtb21uaWRldiZpY29uPTYmY29sb3I9NildKGh0dHBzOi8vdmlzaXRj
+b3VudC5pdHN2Zy5pbikKCjwhLS0gUHJvdWRseSBjcmVhdGVkIHdpdGggR1BS
+TSAoIGh0dHBzOi8vZ3BybS5pdHN2Zy5pbiApIC0tPgo=
