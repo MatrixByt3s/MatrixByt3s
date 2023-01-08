@@ -1,4 +1,6 @@
 ## 👋 Welcome to my Profile
+Passionate Developer from Germany, Loves Math and Coding!
+
 Status: 🟩 Active!<br>
 Learn how i implemented this [here](https://link-url-here.org)
 
